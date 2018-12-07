@@ -1,0 +1,57 @@
+
+= Torchlight II Mods
+
+== Ideas
+
+=== Classes
+
+==== Blood Mage
+
+Caster specialized in blood magic, those mages can increase their physical strength and defense.
+
+* blood charges
+* skill: sacrifice health to gain full blood charges (20-15-10... % health per charge), can cause death
+* skill: when full charged, go into a blood fury state (increased regeneration, increased armor, increased damages...) until all charges are consumed
+* skill: when full charged, use all charges to invoke a blood pillar
+* skill: when full charged, use all charges to invoke a high blood pillar; like a ritual, will be powered by blood pillars to invoke blood beasts at a specific rate (adjusted for 5 pillars)
+* skill: blood ray to steal enemy life, converted in blood charges
+* skill: permutation with an enemy 
+* skill: blood pool escape
+* skill: blood blast (self radius shock)
+* ...
+
+==== Priest
+
+Holy fighter.
+
+* favor charges
+* skill: holy cross that falls from the sky and damage/stun enemies at targeted location
+* skill: holy shield
+* skill: holy smite, powerful single target
+* skill: prayer, increase movement speed, etc
+* skill: blessing, heal on the next fatal blow, long cooldown
+* skill: when full charged, go into a holy monster state (increased regeneration, increased armor, increased damages...) until all charges are consumed
+* skill: holy blast (self radius shock)
+* ...
+
+==== Chemist
+
+Scientist/mage designing potions to fight.
+
+* skills: poor elemental potion on weapon to enhance damages
+* skills: poor elemental potion on armor to enhance defense
+* skills: throw elemental potion (zone)
+* skill: drink powerful potion to enhance capacities (speed, armor, damages)
+* skill: throw a potion that turns a foe in an ally monster
+
+==== Time Lord
+
+Mage manipulating time.
+
+* time charges
+* skill: slow foes in a radius at a targeted location
+* skill: huge speed increase for a short amount of time
+* skill: rollback, teleport to a location, teleport back if triggered again for a specifc period
+* skill: switch timeline, teleport on the next fatal blow, average cooldown
+* skill: repeat, put a countdown on a foe, all damages received will be applied again when the cooldown is over
+* skill: clockwork death, put a clock on a foe, after a long time, the foe is executed (accelerate the speed of the foe while affected)
