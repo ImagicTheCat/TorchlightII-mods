@@ -18,6 +18,7 @@ Caster specialized in blood magic, those mages can increase their physical stren
 * skill: permutation with an enemy 
 * skill: blood pool escape
 * skill: blood blast (self radius shock)
+* skill: invoke flying sword
 * ...
 
 ==== Priest
@@ -32,6 +33,7 @@ Holy fighter.
 * skill: blessing, heal on the next fatal blow, long cooldown
 * skill: when full charged, go into a holy monster state (increased regeneration, increased armor, increased damages...) until all charges are consumed
 * skill: holy blast (self radius shock)
+* skill: invoke guardian angel
 * ...
 
 ==== Chemist
@@ -43,6 +45,7 @@ Scientist/mage designing potions to fight.
 * skills: throw elemental potion (zone)
 * skill: drink powerful potion to enhance capacities (speed, armor, damages)
 * skill: throw a potion that turns a foe in an ally monster
+* ...
 
 ==== Time Lord
 
@@ -55,3 +58,5 @@ Mage manipulating time.
 * skill: switch timeline, teleport on the next fatal blow, average cooldown
 * skill: repeat, put a countdown on a foe, all damages received will be applied again when the cooldown is over
 * skill: clockwork death, put a clock on a foe, after a long time, the foe is executed (accelerate the speed of the foe while affected)
+* skill: invoke time needle
+* ...
